@@ -23,6 +23,7 @@ Night on the Bare/Bald Mountain
 Tchaikovsky 
 Violin Concerto
 Swan Lake
+The Nutcracker
 Symphony 5
 Symphony 6
 Piano Concerto 1
@@ -150,6 +151,9 @@ Also sprach Zarathustra
 
 Ravel (1875-1937)
 Bolero
+
+Respighi (1879-1936)
+Pines of Rome
 
 Prokofiev (1891-1953)
 Cinderella 
