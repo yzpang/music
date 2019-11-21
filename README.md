@@ -70,6 +70,7 @@ Rachmaninoff
 Symphony 2
 The Rhapsody on a Theme of Paganini 
 Symphonic Dances
+All-Night Vigil (Vespers)
 
 Bach
 Violin Concerto 1 in A minor
