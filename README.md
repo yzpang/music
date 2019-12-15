@@ -33,6 +33,7 @@ Sérénade mélancolique
 Manfred
 1812 Overture
 Francesca da Rimini
+Romeo and Juliet Overture
 
 Stravinsky
 Firebird
