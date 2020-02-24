@@ -112,7 +112,7 @@ Symphony 3
 Symphony 5
 Symphony 6
 
-Byrd (1538-1623)  —> who dis? 
+Byrd (1538-1623)
 Mass for five voices
 Pavana Lachrymae for harpsichord solo
 
@@ -132,7 +132,7 @@ Messiah
 Smetana (1824-1884)
 Má vlast
 
-Borodin (1833-1887)  —> no idea who this is
+Borodin (1833-1887)
 Prince Igor - Polovtsian Dances
 
 Camille Saint-Saëns (1835-1921)
@@ -145,8 +145,9 @@ Violin Concerto 1
 Bizet (1838-1875)
 Roma
 
-Widor (1844-1937) —> see above 
-Organ Symphony No. 5 Organ Symphony No. 6
+Widor (1844-1937)
+Organ Symphony No. 5
+Organ Symphony No. 6
 
 Elgar (1857-1934)
 Cello Concerto
@@ -158,7 +159,7 @@ Also sprach Zarathustra
 Ravel (1875-1937)
 Bolero
 
-Respighi (1879-1936)  —> :o ? 
+Respighi (1879-1936)
 Pines of Rome
 
 Prokofiev (1891-1953)
