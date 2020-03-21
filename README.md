@@ -100,6 +100,7 @@ Symphony 41 Jupiter
 
 Verdi (1813-1901)
 Messa da Requiem
+Aida
 
 Haydn
 Symphony 94 Surprise
